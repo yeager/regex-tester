@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Regex Tester
+Comment=Visual regex testing tool
+Exec=regex-tester
+Icon=io.github.yeager.RegexTester
+Terminal=false
+Type=Application
+Categories=Development;Utility;
