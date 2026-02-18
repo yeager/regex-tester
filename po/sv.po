@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-18 10:19+0100\n"
+"PO-Revision-Date: 2026-02-18 09:21+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/304965/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/regex_tester/main.py:17
+msgid "Any character"
+msgstr "Något tecken"
+
+#: src/regex_tester/main.py:18
+msgid "Digit [0-9]"
+msgstr "Siffra [0-9]"
+
+#: src/regex_tester/main.py:19
+msgid "Non-digit"
+msgstr "Icke-siffra"
+
+#: src/regex_tester/main.py:20
+msgid "Word char [a-zA-Z0-9_]"
+msgstr "Skrifttecken [a-öA-Ö0-9_]"
+
+#: src/regex_tester/main.py:21
+msgid "Non-word char"
+msgstr "Icke-skrifttecken"
+
+#: src/regex_tester/main.py:22
+msgid "Whitespace"
+msgstr "Blanksteg"
+
+#: src/regex_tester/main.py:23
+msgid "Non-whitespace"
+msgstr "Icke-blanksteg"
+
+#: src/regex_tester/main.py:24
+msgid "Start of line"
+msgstr "Början av rad"
+
+#: src/regex_tester/main.py:25
+msgid "End of line"
+msgstr "Slutet av rad"
+
+#: src/regex_tester/main.py:26
+msgid "0 or more"
+msgstr "0 eller fler"
+
+#: src/regex_tester/main.py:27
+msgid "1 or more"
+msgstr "1 eller fler"
+
+#: src/regex_tester/main.py:28
+msgid "0 or 1"
+msgstr "0 eller 1"
+
+#: src/regex_tester/main.py:29
+msgid "Exactly n"
+msgstr "Exakt n"
+
+#: src/regex_tester/main.py:30
+msgid "Between n and m"
+msgstr "Mellan n och m"
+
+#: src/regex_tester/main.py:31
+msgid "Capture group"
+msgstr "Fångstgrupp"
+
+#: src/regex_tester/main.py:32
+msgid "Non-capture group"
+msgstr "Icke-fångstgrupp"
+
+#: src/regex_tester/main.py:33
+msgid "Named group"
+msgstr "Namngiven grupp"
+
+#: src/regex_tester/main.py:34
+msgid "Character class"
+msgstr "Teckenklass"
+
+#: src/regex_tester/main.py:35
+msgid "Negated class"
+msgstr "Negerad klass"
+
+#: src/regex_tester/main.py:36
+msgid "Alternation"
+msgstr "Alternering"
+
+#: src/regex_tester/main.py:37
+msgid "Word boundary"
+msgstr "Ordgräns"
+
+#: src/regex_tester/main.py:43
+msgid "Regex Tester"
+msgstr "Testa reguljärt uttryck"
+
+#: src/regex_tester/main.py:48
+msgid "Toggle theme"
+msgstr "Växla tema"
+
+#: src/regex_tester/main.py:52
+msgid "Save pattern"
+msgstr "Spara mönster"
+
+#: src/regex_tester/main.py:56
+msgid "About"
+msgstr "Om"
+
+#: src/regex_tester/main.py:74
+msgid "Regular Expression:"
+msgstr "Reguljärt uttryck:"
+
+#: src/regex_tester/main.py:75
+msgid "Enter regex pattern..."
+msgstr "Ange reguljärt uttrycksmönster..."
+
+#: src/regex_tester/main.py:82
+msgid "Case insensitive (i)"
+msgstr "Inte skiftlägeskänslig (i)"
+
+#: src/regex_tester/main.py:83
+msgid "Multiline (m)"
+msgstr "Flerradig (m)"
+
+#: src/regex_tester/main.py:84
+msgid "Dotall (s)"
+msgstr "Dotall (s)"
+
+#: src/regex_tester/main.py:91
+msgid "Test Text:"
+msgstr "Testa text:"
+
+#: src/regex_tester/main.py:99
+msgid "Matches:"
+msgstr "Matchningar:"
+
+#: src/regex_tester/main.py:107
+msgid "Saved:"
+msgstr "Sparade:"
+
+#: src/regex_tester/main.py:113
+msgid "Delete saved"
+msgstr "Ta bort sparade"
+
+#: src/regex_tester/main.py:127
+msgid "Regex Cheatsheet"
+msgstr "Fusklapp för reguljära uttryck"
+
+#: src/regex_tester/main.py:192
+msgid "No matches"
+msgstr "Inga matchningar"
+
+#: src/regex_tester/main.py:244
+msgid "(none)"
+msgstr "(ingen)"
+
+#: src/regex_tester/main.py:270
+msgid "translator-credits"
+msgstr "Daniel Nylander <po@danielnylander.se>, 2026."
+
+#: src/regex_tester/main.py:271
+msgid "Visual regex testing tool"
+msgstr "Visuellt verktyg för reguljära uttryck"
+
+#: src/regex_tester/main.py:273
+msgid "Translations"
+msgstr "Översättningar"
