@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-18 10:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/regex_tester/main.py:17
+msgid "Any character"
+msgstr ""
+
+#: src/regex_tester/main.py:18
+msgid "Digit [0-9]"
+msgstr ""
+
+#: src/regex_tester/main.py:19
+msgid "Non-digit"
+msgstr ""
+
+#: src/regex_tester/main.py:20
+msgid "Word char [a-zA-Z0-9_]"
+msgstr ""
+
+#: src/regex_tester/main.py:21
+msgid "Non-word char"
+msgstr ""
+
+#: src/regex_tester/main.py:22
+msgid "Whitespace"
+msgstr ""
+
+#: src/regex_tester/main.py:23
+msgid "Non-whitespace"
+msgstr ""
+
+#: src/regex_tester/main.py:24
+msgid "Start of line"
+msgstr ""
+
+#: src/regex_tester/main.py:25
+msgid "End of line"
+msgstr ""
+
+#: src/regex_tester/main.py:26
+msgid "0 or more"
+msgstr ""
+
+#: src/regex_tester/main.py:27
+msgid "1 or more"
+msgstr ""
+
+#: src/regex_tester/main.py:28
+msgid "0 or 1"
+msgstr ""
+
+#: src/regex_tester/main.py:29
+msgid "Exactly n"
+msgstr ""
+
+#: src/regex_tester/main.py:30
+msgid "Between n and m"
+msgstr ""
+
+#: src/regex_tester/main.py:31
+msgid "Capture group"
+msgstr ""
+
+#: src/regex_tester/main.py:32
+msgid "Non-capture group"
+msgstr ""
+
+#: src/regex_tester/main.py:33
+msgid "Named group"
+msgstr ""
+
+#: src/regex_tester/main.py:34
+msgid "Character class"
+msgstr ""
+
+#: src/regex_tester/main.py:35
+msgid "Negated class"
+msgstr ""
+
+#: src/regex_tester/main.py:36
+msgid "Alternation"
+msgstr ""
+
+#: src/regex_tester/main.py:37
+msgid "Word boundary"
+msgstr ""
+
+#: src/regex_tester/main.py:43
+msgid "Regex Tester"
+msgstr ""
+
+#: src/regex_tester/main.py:48
+msgid "Toggle theme"
+msgstr ""
+
+#: src/regex_tester/main.py:52
+msgid "Save pattern"
+msgstr ""
+
+#: src/regex_tester/main.py:56
+msgid "About"
+msgstr ""
+
+#: src/regex_tester/main.py:74
+msgid "Regular Expression:"
+msgstr ""
+
+#: src/regex_tester/main.py:75
+msgid "Enter regex pattern..."
+msgstr ""
+
+#: src/regex_tester/main.py:82
+msgid "Case insensitive (i)"
+msgstr ""
+
+#: src/regex_tester/main.py:83
+msgid "Multiline (m)"
+msgstr ""
+
+#: src/regex_tester/main.py:84
+msgid "Dotall (s)"
+msgstr ""
+
+#: src/regex_tester/main.py:91
+msgid "Test Text:"
+msgstr ""
+
+#: src/regex_tester/main.py:99
+msgid "Matches:"
+msgstr ""
+
+#: src/regex_tester/main.py:107
+msgid "Saved:"
+msgstr ""
+
+#: src/regex_tester/main.py:113
+msgid "Delete saved"
+msgstr ""
+
+#: src/regex_tester/main.py:127
+msgid "Regex Cheatsheet"
+msgstr ""
+
+#: src/regex_tester/main.py:192
+msgid "No matches"
+msgstr ""
+
+#: src/regex_tester/main.py:244
+msgid "(none)"
+msgstr ""
+
+#: src/regex_tester/main.py:270
+msgid "translator-credits"
+msgstr ""
+
+#: src/regex_tester/main.py:271
+msgid "Visual regex testing tool"
+msgstr ""
+
+#: src/regex_tester/main.py:273
+msgid "Translations"
+msgstr ""
