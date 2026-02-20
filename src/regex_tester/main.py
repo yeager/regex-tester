@@ -271,7 +271,7 @@ class RegexTesterWindow(Adw.ApplicationWindow):
             comments=_("Visual regex testing tool"),
         )
         about.add_link(_("Translations"), "https://www.transifex.com/danielnylander/regex-tester")
-        about.present()
+        about.present(self)
 
 
 class RegexTesterApp(Adw.Application):
