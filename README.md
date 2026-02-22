@@ -1,28 +1,25 @@
 # Regex Tester
 
-Visual regex testing tool built with GTK4/Adwaita.
+Interactive regular expression tester with match highlighting.
 
-## Features
+Built with GTK4/Adwaita. Part of the [Danne L10n Suite](https://github.com/yeager/debian-repo).
 
-- Live regex matching with highlighting
-- Capture group display (numbered and named)
-- Flags: case-insensitive, multiline, dotall
-- Regex cheatsheet sidebar
-- Save/load patterns
-- Dark/light theme toggle
+## Installation
 
-## Install
-
+### Debian/Ubuntu
 ```bash
-pip install .
+sudo apt install regex-tester
 ```
 
-## Run
-
+### Fedora/RPM
 ```bash
-PYTHONPATH=src python3 -c "from regex_tester.main import main; main()"
+sudo dnf install regex-tester
 ```
 
 ## License
 
-GPL-3.0-or-later
+GPL-3.0
+
+## Author
+
+Daniel Nylander — [danielnylander.se](https://danielnylander.se)
