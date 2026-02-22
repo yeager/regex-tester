@@ -1,6 +1,6 @@
 [project]
 name = "regex-tester"
-version = "0.1.3"
+version = "0.1.4"
 description = "Visual regex tester with GTK4/Adwaita"
 license = "GPL-3.0-or-later"
 requires-python = ">=3.10"
