@@ -279,9 +279,8 @@ class RegexTesterWindow(Adw.ApplicationWindow):
             self._update_saved_combo()
 
     def _show_about(self, _btn):
-        about = Adw.AboutWindow(
-            transient_for=self,
-            application_name="Regex Tester",
+        about = Adw.AboutDialog(
+            application_name=_("Regex Tester"),
             application_icon="accessories-text-editor",
             version="0.1.0",
             developer_name="Daniel Nylander",
@@ -290,9 +289,8 @@ class RegexTesterWindow(Adw.ApplicationWindow):
             website="https://github.com/yeager/regex-tester",
             issue_url="https://github.com/yeager/regex-tester/issues",
             translator_credits=_("translator-credits"),
-            comments=_("Visual regex testing tool"),
+            comments=_("Visual regex testing tool")
         )
-        about.add_link(_("Translations"), "https://www.transifex.com/danielnylander/regex-tester")
         about.present(self)
 
 
