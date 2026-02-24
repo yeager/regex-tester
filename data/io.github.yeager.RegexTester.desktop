@@ -5,4 +5,5 @@ Exec=regex-tester
 Icon=io.github.yeager.RegexTester
 Terminal=false
 Type=Application
+StartupWMClass=io.github.yeager.RegexTester
 Categories=Development;Utility;

@@ -297,6 +297,7 @@ class RegexTesterWindow(Adw.ApplicationWindow):
 class RegexTesterApp(Adw.Application):
     def __init__(self):
         super().__init__(application_id=APP_ID, flags=Gio.ApplicationFlags.FLAGS_NONE)
+        GLib.set_application_name(_("Regex Tester"))
 
     def do_activate(self):
         win = self.props.active_window or RegexTesterWindow(application=self)
