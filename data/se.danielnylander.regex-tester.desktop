@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Regex Tester
+Name[sv]=Regex-testare
+Comment=Regular expression tester and debugger
+Comment[sv]=Testare och felsökare för reguljära uttryck
+Exec=regex-tester
+Icon=regex-tester
+Categories=Development;GTK;
+Terminal=false
+StartupNotify=true
+StartupWMClass=se.danielnylander.regex-tester
