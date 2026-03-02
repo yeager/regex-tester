@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 06:26+0100\n"
+"POT-Creation-Date: 2026-03-02 05:44+0000\n"
 "PO-Revision-Date: 2026-02-18 09:21+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/304965/sv/)\n"
@@ -21,151 +21,152 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/regex_tester/main.py:17
+#: src/regex_tester/main.py:18
 msgid "Any character"
 msgstr "Något tecken"
 
-#: src/regex_tester/main.py:18
+#: src/regex_tester/main.py:19
 msgid "Digit [0-9]"
 msgstr "Siffra [0-9]"
 
-#: src/regex_tester/main.py:19
+#: src/regex_tester/main.py:20
 msgid "Non-digit"
 msgstr "Icke-siffra"
 
-#: src/regex_tester/main.py:20
+#: src/regex_tester/main.py:21
 msgid "Word char [a-zA-Z0-9_]"
 msgstr "Skrifttecken [a-öA-Ö0-9_]"
 
-#: src/regex_tester/main.py:21
+#: src/regex_tester/main.py:22
 msgid "Non-word char"
 msgstr "Icke-skrifttecken"
 
-#: src/regex_tester/main.py:22
+#: src/regex_tester/main.py:23
 msgid "Whitespace"
 msgstr "Blanksteg"
 
-#: src/regex_tester/main.py:23
+#: src/regex_tester/main.py:24
 msgid "Non-whitespace"
 msgstr "Icke-blanksteg"
 
-#: src/regex_tester/main.py:24
+#: src/regex_tester/main.py:25
 msgid "Start of line"
 msgstr "Början av rad"
 
-#: src/regex_tester/main.py:25
+#: src/regex_tester/main.py:26
 msgid "End of line"
 msgstr "Slutet av rad"
 
-#: src/regex_tester/main.py:26
+#: src/regex_tester/main.py:27
 msgid "0 or more"
 msgstr "0 eller fler"
 
-#: src/regex_tester/main.py:27
+#: src/regex_tester/main.py:28
 msgid "1 or more"
 msgstr "1 eller fler"
 
-#: src/regex_tester/main.py:28
+#: src/regex_tester/main.py:29
 msgid "0 or 1"
 msgstr "0 eller 1"
 
-#: src/regex_tester/main.py:29
+#: src/regex_tester/main.py:30
 msgid "Exactly n"
 msgstr "Exakt n"
 
-#: src/regex_tester/main.py:30
+#: src/regex_tester/main.py:31
 msgid "Between n and m"
 msgstr "Mellan n och m"
 
-#: src/regex_tester/main.py:31
+#: src/regex_tester/main.py:32
 msgid "Capture group"
 msgstr "Fångstgrupp"
 
-#: src/regex_tester/main.py:32
+#: src/regex_tester/main.py:33
 msgid "Non-capture group"
 msgstr "Icke-fångstgrupp"
 
-#: src/regex_tester/main.py:33
+#: src/regex_tester/main.py:34
 msgid "Named group"
 msgstr "Namngiven grupp"
 
-#: src/regex_tester/main.py:34
+#: src/regex_tester/main.py:35
 msgid "Character class"
 msgstr "Teckenklass"
 
-#: src/regex_tester/main.py:35
+#: src/regex_tester/main.py:36
 msgid "Negated class"
 msgstr "Negerad klass"
 
-#: src/regex_tester/main.py:36
+#: src/regex_tester/main.py:37
 msgid "Alternation"
 msgstr "Alternering"
 
-#: src/regex_tester/main.py:37
+#: src/regex_tester/main.py:38
 msgid "Word boundary"
 msgstr "Ordgräns"
 
-#: src/regex_tester/main.py:64
+#: src/regex_tester/main.py:65 src/regex_tester/main.py:283
+#: src/regex_tester/main.py:300
 msgid "Regex Tester"
 msgstr "Testa reguljärt uttryck"
 
-#: src/regex_tester/main.py:69
+#: src/regex_tester/main.py:70
 msgid "Toggle theme"
 msgstr "Växla tema"
 
-#: src/regex_tester/main.py:73
+#: src/regex_tester/main.py:74
 msgid "Save pattern"
 msgstr "Spara mönster"
 
-#: src/regex_tester/main.py:77
+#: src/regex_tester/main.py:78
 msgid "About"
 msgstr "Om"
 
-#: src/regex_tester/main.py:95
+#: src/regex_tester/main.py:96
 msgid "Regular Expression:"
 msgstr "Reguljärt uttryck:"
 
-#: src/regex_tester/main.py:96
+#: src/regex_tester/main.py:97
 msgid "Enter regex pattern..."
 msgstr "Ange reguljärt uttrycksmönster..."
 
-#: src/regex_tester/main.py:103
+#: src/regex_tester/main.py:104
 msgid "Case insensitive (i)"
 msgstr "Inte skiftlägeskänslig (i)"
 
-#: src/regex_tester/main.py:104
+#: src/regex_tester/main.py:105
 msgid "Multiline (m)"
 msgstr "Flerradig (m)"
 
-#: src/regex_tester/main.py:105
+#: src/regex_tester/main.py:106
 msgid "Dotall (s)"
 msgstr "Dotall (s)"
 
-#: src/regex_tester/main.py:112
+#: src/regex_tester/main.py:113
 msgid "Test Text:"
 msgstr "Testa text:"
 
-#: src/regex_tester/main.py:120
+#: src/regex_tester/main.py:121
 msgid "Matches:"
 msgstr "Matchningar:"
 
-#: src/regex_tester/main.py:128
+#: src/regex_tester/main.py:129
 msgid "Saved:"
 msgstr "Sparade:"
 
-#: src/regex_tester/main.py:134
+#: src/regex_tester/main.py:135
 msgid "Delete saved"
 msgstr "Ta bort sparade"
 
-#: src/regex_tester/main.py:148
+#: src/regex_tester/main.py:149
 msgid "Regex Cheatsheet"
 msgstr "Fusklapp för reguljära uttryck"
 
-#: src/regex_tester/main.py:213
+#: src/regex_tester/main.py:214
 msgid "No matches"
 msgstr "Inga matchningar"
 
-#: src/regex_tester/main.py:265
+#: src/regex_tester/main.py:266
 msgid "(none)"
 msgstr "(ingen)"
 
@@ -176,10 +177,6 @@ msgstr "Daniel Nylander <po@danielnylander.se>, 2026."
 #: src/regex_tester/main.py:292
 msgid "Visual regex testing tool"
 msgstr "Visuellt verktyg för reguljära uttryck"
-
-#: src/regex_tester/main.py:294
-msgid "Translations"
-msgstr "Översättningar"
 
 #: src/regex_tester/main.py:328
 msgid "Welcome"
